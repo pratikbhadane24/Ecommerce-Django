@@ -2,4 +2,4 @@
 
 # storefront-Mosh
 
-The Django Application we built while learning
+The E-Commerce Application we built while learning Django
